@@ -5,8 +5,8 @@ This is a repository of all my projects done during my Masters in Applied Econom
 #Econometrics Project
 DRIVERS OF CRIME IN THE UNITED STATES INVESTIGATING HOW POVERTY AND DEMOGRAPHIC FACTORS INFLUENCE CRIME RATE- Senal , Shanel Peiris
 
-# Bayesean Econometrics Project
-
+#Bayesean Econometrics Project
+Spatial Effects of CO2 emmisions
 
 #Economic Data ANalysis Project
 
